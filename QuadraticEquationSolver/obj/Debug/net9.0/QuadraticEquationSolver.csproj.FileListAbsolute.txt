@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\python\QuadraticEquationSolver\bin\Debug\net9.0\QuadraticEquationSolver.deps.json
+C:\Users\Lenovo\Desktop\python\QuadraticEquationSolver\bin\Debug\net9.0\QuadraticEquationSolver.dll
+C:\Users\Lenovo\Desktop\python\QuadraticEquationSolver\bin\Debug\net9.0\QuadraticEquationSolver.pdb
+C:\Users\Lenovo\Desktop\python\QuadraticEquationSolver\obj\Debug\net9.0\QuadraticEquationSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\python\QuadraticEquationSolver\obj\Debug\net9.0\QuadraticEquationSolver.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\python\QuadraticEquationSolver\obj\Debug\net9.0\QuadraticEquationSolver.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\python\QuadraticEquationSolver\obj\Debug\net9.0\QuadraticEquationSolver.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\python\QuadraticEquationSolver\obj\Debug\net9.0\QuadraticEquationSolver.dll
+C:\Users\Lenovo\Desktop\python\QuadraticEquationSolver\obj\Debug\net9.0\refint\QuadraticEquationSolver.dll
+C:\Users\Lenovo\Desktop\python\QuadraticEquationSolver\obj\Debug\net9.0\QuadraticEquationSolver.pdb
+C:\Users\Lenovo\Desktop\python\QuadraticEquationSolver\obj\Debug\net9.0\ref\QuadraticEquationSolver.dll
