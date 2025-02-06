@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\python\TriangleLib\bin\Debug\net9.0\TriangleLib.deps.json
+C:\Users\Lenovo\Desktop\python\TriangleLib\bin\Debug\net9.0\TriangleLib.dll
+C:\Users\Lenovo\Desktop\python\TriangleLib\bin\Debug\net9.0\TriangleLib.pdb
+C:\Users\Lenovo\Desktop\python\TriangleLib\obj\Debug\net9.0\TriangleLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\python\TriangleLib\obj\Debug\net9.0\TriangleLib.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\python\TriangleLib\obj\Debug\net9.0\TriangleLib.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\python\TriangleLib\obj\Debug\net9.0\TriangleLib.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\python\TriangleLib\obj\Debug\net9.0\TriangleLib.sourcelink.json
+C:\Users\Lenovo\Desktop\python\TriangleLib\obj\Debug\net9.0\TriangleLib.dll
+C:\Users\Lenovo\Desktop\python\TriangleLib\obj\Debug\net9.0\refint\TriangleLib.dll
+C:\Users\Lenovo\Desktop\python\TriangleLib\obj\Debug\net9.0\TriangleLib.pdb
+C:\Users\Lenovo\Desktop\python\TriangleLib\obj\Debug\net9.0\ref\TriangleLib.dll
